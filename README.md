@@ -1,2 +1,2 @@
-# Groupe_entreprise
+# Groupe_Projet
 pour tous les projets
